@@ -21,7 +21,6 @@ The analysis aimed to answer the following questions:
 
 - Microsoft Power BI
 - Microsoft Word
-- Microsoft Excel
 - GitHub
 
 ## Key Findings
